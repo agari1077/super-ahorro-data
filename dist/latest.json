@@ -1,19 +1,19 @@
 {
   "version_formato": 5,
-  "fecha_corrida": "2026-09-14",
+  "fecha_corrida": "2026-09-15",
   "frescura_por_comercio": {
-    "la_anonima": "2026-09-14",
-    "carrefour": "2026-09-14",
-    "vea": "2026-09-14",
-    "coop_obrera": "2026-09-14",
-    "coto": "2026-09-14",
-    "jumbo": "2026-09-14",
-    "maxiconsumo": "2026-09-14",
-    "yaguar": "2026-09-14",
-    "makro": "2026-09-14",
-    "multipak": "2026-09-14",
-    "changomas": "2026-09-14"
+    "la_anonima": "2026-09-15",
+    "carrefour": "2026-09-15",
+    "vea": "2026-09-15",
+    "coop_obrera": "2026-09-15",
+    "coto": "2026-09-15",
+    "jumbo": "2026-09-15",
+    "maxiconsumo": "2026-09-15",
+    "yaguar": "2026-09-15",
+    "makro": "2026-09-15",
+    "multipak": "2026-09-15",
+    "changomas": "2026-09-15"
   },
-  "url_paquete": "https://raw.githubusercontent.com/agari1077/super-ahorro-data/main/dist/paquete-2026-09-14.json.gz",
-  "hash_paquete": "sha256:eae009eb12eda2313de1138fb850b33879a72e9d20ef81c322ab66d6447a451e"
+  "url_paquete": "https://raw.githubusercontent.com/agari1077/super-ahorro-data/main/dist/paquete-2026-09-15.json.gz",
+  "hash_paquete": "sha256:ff6a37110773e9ec292a14f4e4a0a1a9e3ea4c2ccbf2adcbd491c66026ffcf20"
 }
